@@ -4,3 +4,5 @@ criando arquivo
 
 nova alteração
 alteração feita no MASTER
+
+nova alteração
