@@ -1,8 +1,2 @@
 meu primeiro sistema no GIT
-
-criando arquivo 
-
-nova alteração
-alteração feita no MASTER
-
-nova alteração
+atualizando mais uma vez
